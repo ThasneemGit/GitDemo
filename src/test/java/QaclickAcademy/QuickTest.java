@@ -13,6 +13,9 @@ public class QuickTest {
 	public void change()
 	{
 		System.out.println("Chnage test case executed successfully");
+		System.out.println("Chnage test case executed successfully");
+		System.out.println("Chnage test case executed successfully");
+		System.out.println("Chnage test case executed successfully");
 	}
 
 }
