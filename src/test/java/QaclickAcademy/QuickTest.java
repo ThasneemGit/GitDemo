@@ -7,6 +7,8 @@ public class QuickTest {
 	public void Qtest()
 	{
 		System.out.println("Quick test");
+		System.out.println("Quick test2");
+		System.out.println("Quick test3");
 	}
 	public void change()
 	{
