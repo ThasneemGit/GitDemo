@@ -9,6 +9,7 @@ public class QuickTest {
 		System.out.println("Quick test");
 		System.out.println("Quick test2");
 		System.out.println("Quick test3");
+		System.out.println("Quick test3 develop");
 	}
 	public void change()
 	{
